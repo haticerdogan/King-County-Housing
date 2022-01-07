@@ -13,9 +13,9 @@ As mentioned, data from the King County Housing Data 2014-2015 was the primary f
 
 Below are maps to visualize how sale price is by location in King County. 
 
-![Map 1](Images/Map Price Scatter.png)
-![Map 2](Images/Zipcode Map.png)
-![Map 3](Images/Zipcode Map2.png)
+![Map 1](Images/Map_Price_Scatter.png)
+![Map 2](Images/Zipcode_Map1.png)
+![Map 3](Images/Zipcode_Map2.png)
 
 
 ## Methods
@@ -27,7 +27,7 @@ Our methods have improved the ability to predict the predicted price of a house.
 
 
 Below we can see the table of how our train and test preformed thoughout improving our models.
-![Model Improvements_Table](http://url/to/img.png)
+![Model Improvements_Table](Images/model_improve_table.png)
 
 
 Below we can see the table of how our train and test preformed thoughout improving our models.
