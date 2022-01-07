@@ -13,10 +13,9 @@ As mentioned, data from the King County Housing Data 2014-2015 was the primary f
 
 Below are maps to visualize how sale price is by location in King County. 
 
-![Map 1](http://url/to/img.png)
-![Map 2](http://url/to/img.png)
-![Map 3](http://url/to/img.png)
-
+![Map 1](Images/Map Price Scatter.png)
+![Map 2](Images/Zipcode Map.png)
+![Map 3](Images/Zipcode Map2.png)
 
 
 ## Methods
@@ -32,19 +31,19 @@ Below we can see the table of how our train and test preformed thoughout improvi
 
 
 Below we can see the table of how our train and test preformed thoughout improving our models.
-![Model Improvements_Bar](http://url/to/img.png)
+![Model Improvements_Bar](Images/model_improve_bar.png)
 
 On our final model, called the **Bestimate**, we can see how the predictions have less error compared to the **Baseline** model in the scatter plots below:
 
-![Scatter Plot Baseline](http://url/to/img.png)
+![Scatter Plot Baseline](Images/baselinemodel_scatter.png)
 
-![Scatter Plot Bestimate](http://url/to/img.png)
+![Scatter Plot Bestimate](Images/bestimatemodel_scatter.png)
 
 ### Inferential Model
 We also created a high performing inferntial model with scaled numeric data to show the effect of each coefficient to sale price. 
 See below the bar graph respresenting the coefficients in the model:
 
-![Inferential Bar Graph](http://url/to/img.png)
+![Inferential Bar Graph](Images/inferential_bar.png)
 
 ## House Prediction Application
 For usability purposes, we designed a private online application just for your real estate agents in the company to use to predict home prices. We will share a link in the chat for you to explore after this presentation.  
